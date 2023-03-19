@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wWFX5as2z44wiz48uL7ii29sxo+0LDJWa2wP9xX2o3ttG39Ygma6PCuvNZ9m9cx/+XYducKGtwNY1DInGCbMaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bilgi\\source\\repos\\Organic\\Organic\\Organic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bilgi\\.nuget\\packages\\bootstrap\\5.2.3\\bootstrap.5.2.3.nupkg.sha512",
+    "C:\\Users\\bilgi\\.nuget\\packages\\jquery\\3.6.3\\jquery.3.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
